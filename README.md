@@ -4,7 +4,7 @@
 
 Need help finding a good book? Use Book Finder to discover the latest best-sellers in various genres. You can ask Alexa to find a good book and she will tell you about the best-selling fiction books according to the New York Times. You can even suggest a genre, such as children's or comedy, and Alexa will tell you the best-selling books in that category. You can also ask the Echo to go into detail about certain books that it's already mentioned by saying "Tell me more about the first" or "I want to know more about the second." All official data about best-selling books is from the New York Times via the New York Times Books API.
 
-## Usecases
+## Use Cases
 
 1. Just ask for any book (the application will give details about the best-selling fiction book).
 
