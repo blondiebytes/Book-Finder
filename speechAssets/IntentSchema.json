@@ -1,0 +1,50 @@
+
+  {
+    "intents": [
+      {
+        "intent": "GenreIntent",
+        "slots": [
+          {
+            "name": "Genre",
+            "type": "LIST_OF_GENRES"
+          }
+        ]
+      },
+         {
+        "intent": "SpecificBookIntent",
+        "slots": [
+          {
+            "name": "Number",
+            "type": "LIST_OF_NUMBERS"
+          }
+        ]
+      },
+        {
+        "intent": "GeneralIntent"
+      },
+      {
+        "intent": "DontKnowIntent"
+      },
+      {
+        "intent": "AMAZON.StartOverIntent"
+      },
+      {
+        "intent": "AMAZON.RepeatIntent"
+      },
+      {
+        "intent": "AMAZON.HelpIntent"
+      },
+      {
+        "intent": "AMAZON.YesIntent"
+      },
+      {
+        "intent": "AMAZON.NoIntent"
+      },
+      {
+        "intent": "AMAZON.StopIntent"
+      },
+      {
+        "intent": "AMAZON.CancelIntent"
+      }
+    ]
+  }

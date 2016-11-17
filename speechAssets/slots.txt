@@ -1,0 +1,77 @@
+{Genre}
+fiction
+drama
+mystery
+horror
+satire
+fantasy
+action
+adventure
+science fiction
+sci-fi
+sci fi
+syfy
+sy fy
+nonfiction
+young adult
+how to
+how-to
+advice
+miscellaneous
+children's
+childrens
+children
+child
+picture
+illustration
+business
+expeditions
+expedition
+fashion
+manners
+customs
+food
+diet
+fitness
+indigenous americans
+indigenous
+love
+romance
+relationships
+relationship
+parenthood
+family
+political
+politics
+american history
+history
+religion
+faith
+spirituality
+spiritual
+graphic
+manga
+animal
+celebrity
+crime and punishment
+crime
+punishment
+culture
+education
+espionage
+game
+activity
+health
+humor
+funny
+comedy
+race
+civil rights
+science
+sports
+travel
+
+{Number}
+first
+second
+third

@@ -1,0 +1,44 @@
+GenreIntent what are the best-selling {Genre} books
+GenreIntent what is the best {Genre} book right now
+GenreIntent what is the best {Genre} book
+GenreIntent what are some good {Genre} books
+GenreIntent {Genre}
+GenreIntent {Genre} book
+GenreIntent {Genre} books
+GenreIntent what are some books about {Genre}
+GenreIntent give me books about {Genre}
+GenreIntent find me a {Genre} book
+GenreIntent find me some {Genre} books
+GenreIntent I need a book about {Genre}
+GenreIntent I want a {Genre} book
+GenreIntent I want some {Genre} books
+GenreIntent Alexa ask Book Finder for a {Genre} book
+GenreIntent Alexa ask Book Finder for some {Genre} books
+GenreIntent Alexa ask Book Finder to find me a book about {Genre}
+GenreIntent Alexa ask Book Finder to find me some books about {Genre}
+GenreIntent Alexa ask Book Finder to find me a {Genre} book
+GenreIntent Alexa ask Book Finder to find me some {Genre} books
+GenreIntent Alexa ask Book Finder to get me some {Genre} books
+GenreIntent Alexa ask Book Finder to get me a {Genre} book
+GeneralIntent what are the best books right now
+GeneralIntent what is the best book
+GeneralIntent what are the best books
+GeneralIntent what book should I get
+GeneralIntent what should I read next
+GeneralIntent what should I read
+GeneralIntent find me a book
+GeneralIntent find me some books
+GeneralIntent I need a book
+GeneralIntent Alexa ask Book Finder to find me a book
+GeneralIntent Alexa ask Book Finder to find me some new books
+GeneralIntent Alexa ask Book Finder for a book
+GeneralIntent what are some good books
+GeneralIntent Alexa ask Book Finder for a new book
+SpecificBookIntent {Number}
+SpecificBookIntent Tell me about the {Number}
+SpecificBookIntent Tell me more about the {Number}
+SpecificBookIntent Tell me more about the {Number} one
+SpecificBookIntent Tell me more about the {Number} book
+SpecificBookIntent {Number} one
+SpecificBookIntent {Number} book
+SpecificBookIntent The {Number} book
